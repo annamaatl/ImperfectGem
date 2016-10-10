@@ -1,7 +1,8 @@
 # ImperfectGem
 
 __译文：“现身”的大能__
-Logo: ![Alt](/wp.png "Title")
+
+Imperfect Gem: ![Alt](/https://www.google.com/imgres?imgurl=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2F564x%2F82%2Fcd%2F1b%2F82cd1b6005c2cbca964cd6ad675ad8ca.jpg&imgrefurl=http%3A%2F%2Fwww.pinterest.com%2Fpin%2F168955423494542351%2F&docid=I_5cynuwApoHHM&tbnid=l-m0iEhtVnY8eM%3A&w=564&h=584&itg=1&safe=active&bih=622&biw=1133&ved=0ahUKEwid2fHDhc_PAhUB8z4KHQA3BQgQMwgmKAQwBA&iact=mrc&uact=8 "Gems")
 
 让我们彼此关怀，激发爱心，勉励行善。 - 希伯来书 10:24  （现代中文译本）
 
