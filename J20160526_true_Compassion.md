@@ -1,3 +1,5 @@
+[![Foo](https://lh3.googleusercontent.com/C3BMvNI3gHvMdtk4LXPvIwgl65XGy3S5uCyx5l79EPBT99tc1t_zHkUwHTxnzgK3beemLChIVJZYxLg=w2880-h1518-rw)]
+
 译文：真情怜悯
 
 惟用爱心说诚实话，凡事长进，连于元首基督。以弗所书 4: 15
