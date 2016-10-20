@@ -1,1 +1,1 @@
-[![Foo](https://lh4.googleusercontent.com/O__D9_fR220PJheVPi86GjwwLTu0Wp7ymnXRyAYIwrJIHNJ63jLHMb4gjEzvB6iRtlpQKDkUUipKlEA=w2880-h1518-rw)](hi, there)
+[![Foo](Fall2016/IMG_6652.JPG)](hi, there)
