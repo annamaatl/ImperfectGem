@@ -1,4 +1,4 @@
-[![Foo](https://lh3.googleusercontent.com/C3BMvNI3gHvMdtk4LXPvIwgl65XGy3S5uCyx5l79EPBT99tc1t_zHkUwHTxnzgK3beemLChIVJZYxLg=w2880-h1518-rw)]
+[![Foo](https://drive.google.com/uc?id=0B0dXjtGzIf3pWHVSZjFXQ1Y5Y1k)]
 
 译文：真情怜悯
 
