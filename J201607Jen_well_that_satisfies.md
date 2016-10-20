@@ -1,1 +1,1 @@
-[![Foo](Fall2016/IMG_6652.JPG)](hi, there)
+[![Foo](https://drive.google.com/uc?id=0B0dXjtGzIf3pb3ViZWlnb3NnVVU)](hi, there)
