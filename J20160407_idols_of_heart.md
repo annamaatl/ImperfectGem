@@ -1,4 +1,4 @@
-[![alt text](https://lh6.googleusercontent.com/9mbV_5BagO5gi16uPeZg3A9nEzticzHY0SfP3LvsJXB7sCFM8OvuiJOXGgj2F1VCys4RqEFdNLI5mvo=w2880-h1518-rw)
+[![alt text](https://drive.google.com/uc?id=0B0dXjtGzIf3pa0s2NE04UkJWM28)]
 
 以西结书14:3 “人子啊！这些人已将他们的假神接到心里，把陷于罪的绊脚石放在面前，我岂能丝毫被他们求问吗？
 
