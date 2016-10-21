@@ -1,3 +1,10 @@
+－－－－－－－－－－－－－－－－－－－
+slow down quotes
+I typed these quotes we have so far from our google drive folder/inspirations/slow down
+these need to be translated. please put translation under each original version. leave each translation there so we can compare.
+－－－－－－－－－－－－－－－－－－－－
+
+
 
 We run at a breakneck pace to try and achieve what God simply wants us to slow down enough to recieve. -- Lisa TerKeurst
 译文1:
