@@ -9,4 +9,12 @@ __this is project imperfect gem__
 
 想要进一步了解字体格式等编辑请查阅 ：https://en.support.wordpress.com/markdown-quick-reference/
 
+引用谷歌盘上的图片， 先找到该图片分享链接， 拷贝下来，在.md文件里用该码：[![Foo]（http://url)](pix)
+
+然后把其中的 file/d/ 换成 uc?id=, 然后把最后的view?usp=sharing都删掉。 比如
+
+https://drive.google.com/file/d/0B0dXjtGzIf3pLUxpcnpBbzduSU0/view?usp=sharing
+
+改成 https://drive.google.com/uc?id=0B0dXjtGzIf3pLUxpcnpBbzduSU0
+
 [![Foo](https://s-media-cache-ak0.pinimg.com/564x/ef/42/81/ef42817a1567aece4bff4baf96756ae7.jpg)](hi, there)
