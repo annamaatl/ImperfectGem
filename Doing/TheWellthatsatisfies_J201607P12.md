@@ -33,4 +33,5 @@ overcome those things. He will give you wisdom and direction in your life. Real 
 Rest In Him. 
     "you reveal the path of life to me; in Your presence is abundant joy; in Your right hand are eternal pleasures" (Ps. 16:11). 
                                           满足的源泉 
-    在你能找到的各种个性组合里， 我偏偏就是最次的那类； 既好取悦别人， 又无比内向。
+    在你能找到的各种个性组合里， 我偏偏就是最次的那类； 既好取悦别人， 又无比内向。 换句话说，就那种“企望备受亲睐 还不用跟任何人打照面” 的范儿。 
+    真心话， 我其实乐衷扎堆儿。 内向的人常在这点上被误解。 
