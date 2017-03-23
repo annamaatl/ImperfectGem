@@ -1,4 +1,9 @@
-                                    TheWellthatsatisfies_J201607P12.md
+                                    
+                                   TheWellthatsatisfies_J201607P12.md
+    
+    
+    
+    
     I'm a people pleaser and an introvert: the worst possible personality combination. 
 I want everyone to like me a long as I don't have to see anyone.
     Seriously, I love hanging out with people. Introvers are misunderstood. 
@@ -23,3 +28,5 @@ friends, nothing.
 He already knows your sin and anxieties, and He is able to overcome those things. He will give you wisdom and direction in your 
 life. Real rest is found in His presence alone. Rest In Him.
     "you reveal the path of life to me; in Your presence is abundant joy; in Your right hand are eternal pleasures" (Ps. 16:11).
+                                            满足的源泉
+在你能找到的各种个性组合里， 我偏偏就是最次的那类； 既要取悦人， 又内向。
