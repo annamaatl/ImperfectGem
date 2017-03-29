@@ -1,4 +1,8 @@
 
+  ![Foo](https://drive.google.com/uc?id=0B0dXjtGzIf3pb3ViZWlnb3NnVVU)](hi, there)
+  
+ ![img](https://drive.google.com/uc?id=0B0dXjtGzIf3pTjBHam5mdzVmX0E)]
+ 
 + 满足的泉源 
 
 +	但凡在你能找到的各种个性组合“排行榜”上， 我偏偏被归于最次的那类； 既好取悦别人， 又无比内向。 换句话说，就属那种“企望备受亲睐 还不用跟任何人打照面” 的范儿。 
