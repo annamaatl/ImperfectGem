@@ -32,6 +32,8 @@ He will satisfy even the busiest person. He will refresh you, He already knows y
 overcome those things. He will give you wisdom and direction in your life. Real rest is found in His presence alone. 
 Rest in Him. 
     "You reveal the path of life to me; in Your presence is abundant joy; in Your right hand are eternal pleasures" (Ps. 16:11). 
-                                          满足的源泉 
+    
+    original picture link:  https://doc-0c-64-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ea3u1t557ttgi14tjm0ncds9e8q3t31d/1490752800000/06788483006580723738/*/0B0dXjtGzIf3pTjBHam5mdzVmX0E
+                                          满足的源泉 
     在你能找到的各种个性组合里， 我偏偏就是最次的那类； 既好取悦别人， 又无比内向。 换句话说，就那种“企望备受亲睐 还不用跟任何人打照面” 的范儿。 
     真心话， 我其实乐衷扎堆儿。 内向的人常在这点上,结结实实地被误解。 我实在挺爱好固定会友，与新面孔聚聚，结交朋友。 
