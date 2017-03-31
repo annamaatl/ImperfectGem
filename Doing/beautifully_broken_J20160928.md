@@ -1,5 +1,25 @@
 [![Foo](https://drive.google.com/uc?id=0B0fmW_TsoVUOMlBrUVhXM2Rvazg)]
 
+Beautifully Broken
+“THE LORD IS NEAR THE BROKENHEARTED”
+(Psalm 34:18).
+
+	In Japan, there’s a centuries-old practice with pottery called kintsugi. When a piece of pottery is broken, it isn’t discarded.  Instead, the pieces are carefully mended back together by using seams of gold. The repaired pottery with its golden seams is considered to be even more beautiful and valuable since it has been broken. The golden cracks are seen as part of the life of the object—part of its story, and part of what makes it what it is. The vessel’s beauty comes from its brokenness.
+  
+	God, our Potter, has the same vision. When our fragile clay vessel cracks or shatters because of a run- in with this hard world, the break is painful. God sees our pain and he grieves with us (John 11:33-36). But it’s as if Romans 8:28 hangs in His potter’s shop. “All things work together for the good of those who love God; those who are called according to His purpose.” There is no hardship, no struggle, that God won’t use for good, that God won’t use to make you more beautiful. 
+  
+	So, if you’re broken, take heart God is using your brokenness to make you more whole, more captivating, and more holy. No ounce of pain is being wasted. In fact, the more broken you are, the more opportunity there is for God to mend, and thus more seams of gold. And when you’re on the other side of the brokenness, you’ll find that God hasn’t put you together “as good as new.” No, you’ll be better than new. The mended parts of your life story, part of what makes you who you are, and part of what God has used to make you more beautiful. 
+  
+	The reality is that when you’re finally at home with God in eternity, you won’t have an opportunity to let Him mend. Hearts don’t break in heaven. So while you’re here, hold up your broken pieces to the Potter. Trust that He is not wasting one ounce of your pain. Trust that He sees great beauty in your brokenness. And cling to Him as He works.
+	
+  Steps of faith
+  God, please teach my hurting heart to rest in the truth that You’re using every bit of this brokenness to create something beautiful in me. Ultimately, I know You’re molding me into the image of Jesus, who is the most beautiful of all. Comfort me as You mold me. 
+
+    Deeper Walk
+    Isaiah 57:15
+	
+ 
+
 
 
 
