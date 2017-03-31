@@ -1,3 +1,10 @@
+![Foo] https://drive.google.com/uc?id=/0B0fmW_TsoVUOMlBrUVhXM2Rvazg/
+
+
+
+
+
+
 美丽的破碎
 —— 耶和华靠近伤心的人（诗篇34:18）
 
