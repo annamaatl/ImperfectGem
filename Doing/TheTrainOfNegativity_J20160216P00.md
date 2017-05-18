@@ -1,3 +1,7 @@
+
+EnoughIsEnough_J20160603P7.JPG
+
+
 [![Foo](https://drive.google.com/uc?id=0B0fmW_TsoVUOYmRCWnhSdUd5Rm8)]
 牢骚一火车
  [圣经新译本] 如经上所记：“谁曾知道主的心意，能够指教他呢？”但我们已经得着基督的心意了。
