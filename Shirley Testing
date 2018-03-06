@@ -1,1 +1,236 @@
+##Indiana State University
+##MAJOR=E835
+##Interior Architecture Design Major
+##2019-9999
+##https://indstate.curriculog.com/proposal:3017/form
 
+
+
+
+##************************************************
+##change from BS degree to BFA degree.
+##Which means program code in BANNER has to be newly set up to reflect changes.
+##Then followed by DW surecode setting, worksheets, 
+##SCRIBE degree blocks, major blocks, Athlete blocks, 
+##academic audit worksheets and athlete worksheets. Etc.
+##Considering PRB, BS, BFA blocks in degree type;
+##run Transit to find blocks coding E835
+##************************************************
+
+
+
+##copied degree block PROD RA 383 to CLNT 383. end 2018.  
+##should create new from 2019-9999.   
+##U2 also needs end and create new.
+
+
+BEGIN
+71 Credits Pseudo
+##Added by Shirley to support athletic audits
+
+MinGPA 2.5 in IAD @
+ Proxy-Advice "Your GPA in these classes is <APPLIED>."
+Label MinGPA1 "Minimum 2.5 GPA in all IAD Classes."
+
+
+MinCredits 33 in IAD @ (with DWTransfer=N and DWGradeLetter<>"CR")
+
+Proxy-Advice "You currently have <APPLIED>,"
+Proxy-Advice "you still need <NEEDED> more."
+Label MinRes33 "Minimum 33 Residency Credits in IAD Courses"
+
+
+##Requires IAD all design studio 
+##courses (IAD 251, 270, 351, 352, 451, 452)
+##with a grade of C- or higher  (C-is 1.7)
+MaxCredits 0 in IAD 251 (with DWGradeNumber<=1.69 and DWTransfer=N and DWGrade<>"S"), 
+	270(with DWGradeNumber<=1.69 and DWTransfer=N and DWGrade<>"S"),
+ 	351(with DWGradeNumber<=1.69 and DWTransfer=N and DWGrade<>"S"),
+ 	352(with DWGradeNumber<=1.69 and DWTransfer=N and DWGrade<>"S"),
+ 	451(with DWGradeNumber<=1.69 and DWTransfer=N and DWGrade<>"S"),
+ 	452 (with DWGradeNumber<=1.69 and DWTransfer=N and DWGrade<>"S")
+                Tag=MaxCredits0
+
+
+##ARTS 101, IAD 110, 140, 151, 152, 160
+
+HeaderTag RemarkJump="http://www.indstate.edu/interior"
+HeaderTag RemarkJump="/about/curriculum.htm"
+
+Share (AllBlocks)
+
+;
+Remark "To Learn More About This PROGRAM by CLICKING THIS LINK"
+Remark "to preview ENTRANCE REQUIREMENTS and CURRICULUM."
+Remark "At least 50 percent of IAD credits required for any IAD major"
+Remark "should be taken at Indiana State University."
+
+##International students must have a minimum TOEFL,
+##score of 550 or equivalent.
+
+##HSFL =200 for all International Students by admissions
+  If (HSFL=200 and TOEFL>=550) THEN
+RuleComplete
+  Label 2.1TSM "TOEFL Minimum Score Met for International Student";
+
+
+ELSE if (HSFL = 200) THEN
+RuleInComplete
+Proxy-Advice "Your TOEFL score does not meet the minimum"
+    Proxy-Advice "requirements for admission to the IAD program."
+Label 2MTSNM "International Student please check additional entrance Criteria";
+Remark "For international students, they must have a minimum TOEFL"
+Remark "score of 550 or equivalent."
+##International students must have a minimum TOEFL,
+##score of 550 or equivalent.
+
+If (DEGREE<>BS) Then
+  RuleIncomplete
+    Proxy-Advice "Students remain in Pre-Interior Architecture Design program"
+    Proxy-Advice "until they complete the requirements of Predesign:"
+	Proxy-Advice "First Year and Sophomore Design Below."
+   Label 3.1PIAD "Pre-IAD Program"
+Else
+RuleComplete
+Label 3.2PIADP "Pre-IAD Program(Please Review your Completed Portfolio Below:)";
+
+
+BeginSub
+
+##1 Class in ARTS 101
+ ##   Label 4DRW "Drawing";
+1 Class in IAD 110
+    Label 5IID "Introduction to Interior Design";
+  1 Class in IAD 151
+    Label 6DFDD "Design Fundamentals: 3D Design";
+  1 Class in IAD 152
+    Label 7IGD "IAD Graphics 1: Drafting";
+1 Class in IAD 140
+    Label 8IGP "IAD Graphics 2: Presentation";
+  1 Class in IAD 160
+    Label 9MFI "Materials and Finishes of IAD";
+EndSub
+MinGPA 2.5
+LABEL 10PFYRC "First Year: [Predesign] Courses(Minimum 2.5 GPA required)";
+Remark "Upon satisfactorily completing the [predesign] course" 
+Remark "requirements, students may register for the second"
+Remark "year design courses."
+
+
+BeginSub
+
+  1 Class in IAD 251
+    Label 11SRB "Studio 1: Residential + Bath";
+  1 Class in IAD 220
+    Label 12CDR "Const + Detailing: Residential";
+  1 Class in IAD 230
+    Label 13CFI "CAD Fundamentals of IAD";
+  1 Class in IAD 240
+    Label 14DV "Digital Visualization";
+    1 Class in IAD 251
+    Label 14.1SRB "Studio 1: Residential + Bath";
+1 Class in IAD 270
+    Label 15SRK "Studio 2: Residential + Kit";
+ 1 Class in ARTH 271, 272
+    Label 16SAH "Survey of Art History I or II";
+EndSub
+MinGPA 2.5
+LABEL 17PSDC "Second Year Design Courses(Minimum 2.5 GPA required)";
+Remark "Upon satisfactorily completing the second year design course" 
+Remark "requirements, students may register for the third and fourth"
+Remark "year design courses."
+
+IF (DEGREE=PRB) Then
+RuleINcomplete
+
+Proxy-Advice "You are not overall acceptance into"
+Proxy-Advice "Interior Architecture Design program."
+Proxy-Advice "Below is the full program requirements for you to Preview."
+   Label 17.1IAD "IAD Program (After Completion of Pre-IAD Portfolio Above:)";
+
+
+
+##If (DEGREE=BS) Then
+##  RuleINcomplete
+
+##Proxy-Advice "Congratulations on overall acceptance into"
+##Proxy-Advice "Interior Architecture Design program."
+
+  ## Label 17.2IAD "IAD Program (Please Complete following requirement:)";
+
+
+BeginSub
+
+1 Class in IAD 310
+    Label 18CDC "Const + Detailing: Commercial";
+  1 Class in IAD 351
+    Label 19SUC "Studio 3: Universal + Corp";
+  1 Class in IAD 352
+    Label 20SHR "Studio 4: Historic Restoration";
+  1 Class in IAD 353
+    Label 21II "IAD Internship";
+  1 Class in IAD 354
+    Label 22HTI "History of Traditional IAD";
+  1 Class in IAD 355
+    Label 23LC "Lighting + Color";
+  1 Class in IAD 360
+    Label 24SP "Sustainable Practices";
+  1 Class in IAD 451
+    Label 25SH "Studio 5: Healthcare";
+  1 Class in IAD 452
+    Label 26ST "Studio 6: Thesis";
+  1 Class in IAD 454
+    Label 27HCI "History of Contemporary IAD";
+  1 Class in IAD 458
+    Label 28PPPI "Prof Practice + Proc in IAD";
+  1 Class in IAD 470
+    Label 29IP "IAD Portfolio";
+EndSub
+MinGPA 2.5
+LABEL 30JSDC "Third and Fourth Year Design Courses(Minimum 2.5 GPA required)";
+##Remark "These courses can be taken only after the completion of PRE-IAD"
+ ##Remark "Program and the overall acceptance into"
+##Remark "Interior Architecture Design program."
+
+
+END.
+
+
+/////////////////////////// Change Log ///////////////////////////////////////
+     Date        Who    Description
+#LOG 3/20/18  SX    Initial block creation
+#LOG 4/4/14    SX	 dded highest credit hours to support athletic audits in
+header qualifier in the block
+#LOG  6/10/16   SX  updated the entrance requirmt for international studnets.
+#				per TOEFL record is missing for some international
+#					student
+LOG  5/4/17   SX   adjust the coding due to 4.1.4 version in PROD
+LOG    and 4.1.6 in CLNT
+//////////////////////////////////////////////////////////////////////////////
+
+BFA degree needs create a new block; but PRB should be fine . adding  a condition checking E835 to have the                        
+If (MAJOR=E835 ) Then
+ If (BannerGPA>=2.5) Then
+  RuleComplete
+  Label MINCGPA1 "Minimum 2.5 Cumulative GPA Met"
+ Else
+  RuleIncomplete
+    Proxy-Advice "Your cumulative GPA is below 2.5."
+  Label MINCGPA2 "Minimum 2.5 Cumulative GPA Not Met"
+
+Else
+ If (BannerGPA>=2.0) Then
+  RuleComplete
+  Label MINCGPA3 "Minimum 2.0 Cumulative GPA Met"
+ Else
+  RuleIncomplete
+    Proxy-Advice "Your cumulative GPA is below 2.0."
+  Label MINCGPA4 "Minimum 2.0 Cumulative GPA Not Met";
+
+
+
+
+##Requires all IAD with a B or higher
+##MaxCredits 0 in IAD 100:499 (with DWGradeNumber<=2.5 and
+##                             DWTransfer=N and DWGrade<>"S")
+ ##               Tag=MaxCredits0
